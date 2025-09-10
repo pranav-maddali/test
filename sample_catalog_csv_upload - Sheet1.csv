@@ -1,5 +1,6 @@
-id,override,price,sale_price
-8983e4yysh,GB,5,4
-pbgg5jptmp,GB,6,5
-9hk0p9jj0l,GB,7,6
+id,override,price,sale_price,availability
+8983e4yysh,GB,$5.00,$4.00,10
+pbgg5jptmp,GB,$6.00,$5.00,20
+9hk0p9jj0l,GB,$7.00,$6.00,30
+
 
