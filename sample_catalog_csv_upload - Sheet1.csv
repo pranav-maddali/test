@@ -1,4 +1,5 @@
-id, override, description, title
-25440816465519070, GB, test gb description1, test title1
-24618131261150108, GB, test gb description2, test title2
-24590277313996223, GB, test gb description3, test title3
+id,override,price,sale_price
+8983e4yysh,GB,5,4
+pbgg5jptmp,GB,6,5
+9hk0p9jj0l,GB,7,6
+
