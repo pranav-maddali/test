@@ -1,7 +1,3 @@
-id,override,price,sale_price,availability
-8983e4yysh,GB,5.00 USD,4.00 USD,"in stock"
-pbgg5jptmp,GB,6.00 USD,5.00 USD,"preorder"
-9hk0p9jj0l,GB,7.00 USD,6.00 USD,"out of stock"
-
-
-
+Override Type, Override Value, Item Retailer ID
+creator_asset, 33102542627369, lyg28bop3u
+creator_asset, 33102540872829, sp0ml5jyae
