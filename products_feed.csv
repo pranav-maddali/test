@@ -1,0 +1,3 @@
+additional_image_link,title,link,image_link,description,id,price,availability,condition,item_group_id,google_product_category,product_type,brand,shipping
+http://www.facebook.com/a.png|http://www.facebook.com/b.png,Tea,http://www.facebook.com,http://www.facebook.com/teapic.jpg,Jasmine,i2,5.00 USD,in stock,new,g2,Tea,Tea Retailer,Foo,US:CA:Ground:9.99 USD
+http://www.facebook.com/a.png|http://www.facebook.com/b.png,Tea2,http://www.facebook.com,http://www.facebook.com/teapic.jpg,Jasmine2,i4,5.00 USD,in stock,new,,Tea,Tea Retailer,Foo,US:CA:Ground:9.99 USD
